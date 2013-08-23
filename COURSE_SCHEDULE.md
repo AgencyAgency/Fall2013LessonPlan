@@ -65,3 +65,41 @@ Expect changes in dates and topics as the course will change to meet our needs a
 * **Activities**: Identify whom to observe/interview; Write interviews (submit via email by Sunday night)
 * **HW**: Finish writing interview; Continue general research activities
 * **PB**: What do you hope to learn from the interview? Hypotheses?
+
+### Week 3.  Be inspired. Begin to see relationships.
+
+*Objective: Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
+
+**9/9 M  Day 9** Who do we want to be our audience?
+
+* **Activities**: Review research; Affinity map; Brainstorming
+* **HW**: Review feedback on interview and revise if necessary.
+* **PB**: What are some insights? Possible concepts/solutions?
+
+**9/10 TU  Day 10** Communicating research findings - Themes, Patterns, Insights
+
+* **Activities**: Research inspiration board; Brainstorming
+* **HW**: Arrange for an interview (complete interview by 9/18)
+* **PB**: What are you inspired by thus far?
+
+**9/11 W  Day 11**  Find more inspiration, local, regional, world trends/events;
+
+*  Core iOS coding concepts - Storyboards, View Controllers, Views
+* **Activities**: Periodical reading; Add to inspiration board/brainstorming
+* **HW**: Find one thing from your reading that may be relevant.
+* **PB**: Has the reading inspired anything new?
+
+**9/12 TH  Day 12**  
+
+*  Core coding concepts - Git
+* **Activities**: Share out; Add to boards; Group discussion on mental models
+* **HW**: How would you explain Git? Come up with a metaphor, model, etc.
+* **PB**: Has learning about the coding concepts opened new perspectives?
+
+**9/13 F  Day 13**  Mental models; Vision Statements
+
+* **Activities**: Share out (Git models)
+* **HW**: Finish up interviews (due 9/18)
+* **PB**: How do the mental models influence your thinking? your understanding? How do you want to see the future of ‘Iolani?
+
+### First half of PHASE 1 complete
