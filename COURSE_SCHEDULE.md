@@ -14,12 +14,15 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 *Objectives: Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
 
+---
+
 **8/26 M  Day 1** Introductions - who are we and what is this class about?, Course logistics
 
+```
 * **Activities**: Apples-to-Apples; Get to know our collective skills
 * **HW**: Write your bio and brainstorm ideas for our office “self representations”
-
-- - -
+```
+---
 
 **8/27 TU  Day 2** What will we be doing? - Collaboration, Project Management, Process documentation; Course Progression, Topics, Schedule;
 
