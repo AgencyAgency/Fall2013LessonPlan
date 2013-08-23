@@ -16,6 +16,7 @@ Please contact us if you plan on being absent, are unable to participate, or wis
 The purpose of the course is to provide real-world experience in a variety of aspects including the design and development process, skill acquisition, concept application, to participating in a collaborative work environment. As such, you will either be working together as a class or in smaller groups of three to five individuals.
 
 The course will be structured around the following:
+
 1. in-class instruction
 2. in-class activities
 3. discussion of readings/activities (review of “homework” or in-class activities)
