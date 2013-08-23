@@ -106,6 +106,17 @@ Depending on how we feel as a class, we may do as few as one and as many as thre
 
 * [How innovation can thrive on campus](http://www.hermanmiller.com/content/hermanmiller/northamerica/en_us/home/research/research-summaries/how-innovation-can-thrive-on-campus.html)
 
+### Inspiration
+
+* [Jobs on changing things](http://www.youtube.com/watch?v=kYfNvmF0Bqw&feature=youtu.be&t=9s)
+
+## Course Schedule
+
+Expect changes in dates and topics as the course will change to meet our needs as they develop.
+“Activities” lists the general activities for the day in the context of the topics. “HW” (i.e. homework) is the thinking or activities to be done in preparation for the following day(s) and “PB” (i.e. process book) are some prompts to consider in documenting your process.
+
+ Denotes a coding topic, roughly speaking.
+
 ## Want to help edit this document?
 
 You can submit a pull request.
