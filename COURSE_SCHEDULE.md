@@ -176,9 +176,8 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 > * **HW/PB**: What are the content and context that shape the experience? Limitations of current process? of data? 
 
-| |Design|Dev|
-|:-------:|-|-|
-|**HW/PB**|What is the current experience? How can you tell the story of the user (emotion)? Draw/write something that will help to trigger your own emotional connection to our users and their experience|What are the content and context that shape the experience? Limitations of current process? of data?|
+x|Design|Dev
+**HW/PB**|What is the current experience? How can you tell the story of the user (emotion)? Draw/write something that will help to trigger your own emotional connection to our users and their experience|What are the content and context that shape the experience? Limitations of current process? of data?
 
 
 
