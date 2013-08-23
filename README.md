@@ -94,8 +94,12 @@ The [full course schedule][course schedule] (what's posted of it) can be found o
 You can [create](https://help.github.com/articles/creating-a-pull-request) and then submit a [pull request](https://help.github.com/articles/using-pull-requests).
 
 If you want to learn how to write Markdown (the syntax) used for this web page, check out these links:
+
 * [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax), by Daring Fireball
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) - some extras for GitHub
+
+To preview your Markdown locally, try [Marked](http://markedapp.com) ($3.99). It has a GitHub *Preview Style*.
+
 
 ## License
 
