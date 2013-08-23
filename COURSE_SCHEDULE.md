@@ -157,7 +157,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ***Objectives:** Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
 
-***Note that there are two columns for activities or homework to indicate role differences.***
+***Note that there are two tracks (Design and Dev) for activities and homework to indicate role differences.***
 
 **9/23  Day 18  Design and development roles; Group brainstorming guidelines; Logistics**
 
@@ -167,9 +167,19 @@ Expect changes in dates and topics as the course will change to meet our needs a
 9/24  Day 19  Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis; 
 
 > * **Activities**: Telestrations; Practice critiquing
-> | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+
+> **Design**
+
+> * **HW/PB**: What is the current experience? How can you tell the story of the user (emotion)? Draw/write something that will help to trigger your own emotional connection to our users and their experience
+
+> **Dev**
+
+> * **HW/PB**: What are the content and context that shape the experience? Limitations of current process? of data? 
+
+||Design|Dev|
+|:-------:|-|-|
+|**HW/PB**|What is the current experience? How can you tell the story of the user (emotion)? Draw/write something that will help to trigger your own emotional connection to our users and their experience|What are the content and context that shape the experience? Limitations of current process? of data?|
+
 
 
 | Tables        | Are           | Cool  |
