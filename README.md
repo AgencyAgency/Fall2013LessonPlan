@@ -53,7 +53,58 @@ As this is a semester long course, assessments will be based on the following it
 
 *The process book documents your personal process and project experience. It will include your activities, decisions, thought processes, and artifacts of your process, among other things. Its purpose is to incite self-reflection, awareness, and retrospection both during the project and at its completion.
 
+## Project Scope
 
+Fortunately, the sky is not the limit for the scope of this project. That’s a good thing, because it allows you to focus your efforts and tackle something manageable. The following criteria are guidelines for determining reasonable project scope. The selected projects should:
+
+1. have a clearly defined audience;
+2. require minimal content creation (should utilize already available and static content, should require limited processing of data, or might utilize user generated content);
+3. have low maintenance requirements or clearly identifiable owner; and
+4. have features built-around existing user behaviors and processes.
+
+Depending on how we feel as a class, we may do as few as one and as many as three projects. 
+
+## Optional Reading
+
+### Design
+
+#### Research
+
+* (10 Things Designers Should Know About People - http://nothingsacredgames.com/?p=930)[http://nothingsacredgames.com/?p=930]
+
+#### Practices
+
+* (Deprivation Testing at GitHub - http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design)[http://www.fastcolabs.com/3010972/open-company/how-github-uses-deprivation-testing-to-hone-product-design]
+* (iOS Design Starter Guide - http://taybenlor.com/2013/05/21/designing-for-ios.html)[http://taybenlor.com/2013/05/21/designing-for-ios.html]
+* (iOS7 and Almost-Flat Design - https://medium.com/thoughts-and-words/5ccef7b3e1fc)[https://medium.com/thoughts-and-words/5ccef7b3e1fc]
+
+#### Creativity
+
+* (Creative People Say "No" - https://medium.com/thoughts-on-creativity/bad7c34842a2)[https://medium.com/thoughts-on-creativity/bad7c34842a2]
+* (Daily Rituals of Creative People - http://www.fastcocreate.com/1682913/from-beethoven-to-woody-allen-the-daily-rituals-of-the-worlds-most-creative-people-and-what-)[http://www.fastcocreate.com/1682913/from-beethoven-to-woody-allen-the-daily-rituals-of-the-worlds-most-creative-people-and-what-]
+* (Against Creativity - https://medium.com/thoughts-on-creativity/efb8b5976bd7)[https://medium.com/thoughts-on-creativity/efb8b5976bd7]
+
+#### Process
+
+* (Process Technique - http://www.sharesomecandy.com/process_techique_main.html)[http://www.sharesomecandy.com/process_techique_main.html]
+* (Process Technique: Continued - http://www.sharesomecandy.com/process_technique_pearson_maron.html)[http://www.sharesomecandy.com/process_technique_pearson_maron.html]
+
+### Development
+
+The effects of sitting: http://www.hermanmiller.com/content/hermanmiller/english/research/solution-…
+
+### Collaboration
+
+How successful virtual teams collaborate - http://blogs.hbr.org/cs/2012/10/how_to_collaborate_in_a_virtua.html
+Coworking, Swarming, and the Agile Workplace - http://www.hermanmiller.com/content/hermanmiller/english/research/research-…
+
+### Product
+
+You need an MVP - http://jury.me/blog/2013/3/30/mvp
+
+### Workspace
+
+How innovation can thrive on campus - http://www.hermanmiller.com/content/hermanmiller/english/research/research-…
 
 ## Want to help edit this document?
 
