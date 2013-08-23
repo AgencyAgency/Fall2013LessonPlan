@@ -111,8 +111,8 @@ Depending on how we feel as a class, we may do as few as one and as many as thre
 You can submit a pull request.
 
 If you want to learn how to write Markdown (the syntax) used for this web page, check out these links:
-* (Markdown Syntax)[http://daringfireball.net/projects/markdown/syntax] by Daring Fireball
-* (GitHub Flavored Markdown)[https://help.github.com/articles/github-flavored-markdown] - some extras for GitHub
+* [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax), by Daring Fireball
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) - some extras for GitHub
 
 ## License
 
