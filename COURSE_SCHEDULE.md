@@ -12,7 +12,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 1.   Welcome, we are a design office 
 
-***Objectives:** Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
+***Objectives:*** *Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
 
 **8/26 M  Day 1** Introductions - who are we and what is this class about?, Course logistics
 
@@ -58,7 +58,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 2.  Design is about people 
 
-***Objective:** Introduction to research in the context of business and design considerations*
+***Objective:*** *Introduction to research in the context of business and design considerations*
 
 **9/2 M** No class meeting
 
@@ -88,7 +88,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 3.  Be inspired. Begin to see relationships.
 
-***Objectives:** Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
+***Objectives:*** *Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
 
 **9/9 M  Day 9** Who do we want to be our audience?
 
@@ -126,7 +126,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 4.  Become a futurist. Envision a positive future.
 
-***Objectives:** Extract design implications and begin to clarify solution space. Introduce basic programming concepts.*
+***Objectives:*** *Extract design implications and begin to clarify solution space. Introduce basic programming concepts.*
 
 **9/16 M  Day 14   Core coding concepts - Objects**
 
@@ -155,29 +155,57 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 5.  Ideas are cheap. Feel free to play with them roughly.
 
-***Objectives:** Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
+***Objectives:*** *Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
 
 ***Note that there are two tracks (Design and Dev) for activities and homework to indicate role differences.***
 
-**9/23  Day 18  Design and development roles; Group brainstorming guidelines; Logistics**
+**9/23 M  Day 18  Design and development roles; Group brainstorming guidelines; Logistics**
 
 > * **Activities**: Checkpoint: where are we in our process. Get organized.
 > * **HW/PB**: What do you want your role to be? Be ready to choose.
 
-9/24  Day 19  Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis; 
+**9/24 TU  Day 19  Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis;**
 
 > * **Activities**: Telestrations; Practice critiquing
 
-> **Design**
+*Design*
 
-> * **HW/PB**: What is the current experience? How can you tell the story of the user (emotion)? Draw/write something that will help to trigger your own emotional connection to our users and their experience
+> * **HW/PB**:
+    * What is the current experience?
+    * How can you tell the story of the user (emotion)?
+    * Draw/write something that will help to trigger your own emotional connection to our users and their experience
 
-> **Dev**
+*Dev*
 
-> * **HW/PB**: What are the content and context that shape the experience? Limitations of current process? of data? 
+> * **HW/PB**: 
+    * What are the content and context that shape the experience?
+    * What are the limitations of the current process?
+    * Are there limitations based on available data?
 
-Track | Design | Dev
---- | --- | ---
-**HW/PB** | * What is the current experience? * How can you tell the story of the user (emotion)? * Draw/write something that will help to trigger your own emotional connection to our users and their experience | What are the content and context that shape the experience? Limitations of current process? of data?
+**9/25 W  Day 20  Group Ideation**
 
+> * **Activities**: Share out thinking; Review solution ideas to date; Affinity map; Brain writing
+> * **HW/PB**: 3+ ideas
 
+**9/26 TH  Day 21  Group ideation; Selection criteria**
+
+> * **Activities**: Share out ideas; Open brainstorming; Create rubric for selection
+> * **HW/PB**: Which ideas do you like best? Does the rubric capture all the qualitative aspects of decision making?
+
+**9/27 F  Day 22  Product Pitch; Mood/Inspiration Boards, Controls**
+
+*Design*
+
+> * **Topics**: Mood Boards; Typography
+> * **Activities**: Start looking for inspiration, Begin to articulate desired experience
+
+*Dev*
+
+> * **Topics**: Controls (Table Table Views, Image Views, Labels)
+> * **Activities**: Discussion & Live Coding
+
+*Both*
+
+> * **HW/PB**: Write up product pitches. Use images or words from research to create a compelling story.
+
+---
