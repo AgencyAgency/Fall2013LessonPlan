@@ -8,6 +8,8 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
  Denotes a coding topic, roughly speaking.
 
+***Note that some days display two tracks (Design and Dev) for activities and homework to indicate role differences.***
+
 ## PHASE 1. Basic Skills, Fundamental Concepts, Research
 
 ### Week 1.   Welcome, we are a design office 
@@ -175,7 +177,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
     * How can you tell the story of the user (emotion)?
     * Draw/write something that will help to trigger your own emotional connection to our users and their experience
 
-*Dev*
+*Dev *
 
 > * **HW/PB**: 
     * What are the content and context that shape the experience?
@@ -199,7 +201,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 > * **Topics**: Mood Boards; Typography
 > * **Activities**: Start looking for inspiration, Begin to articulate desired experience
 
-*Dev*
+*Dev *
 
 > * **Topics**: Controls (Table Table Views, Image Views, Labels)
 > * **Activities**: Discussion & Live Coding
@@ -209,3 +211,81 @@ Expect changes in dates and topics as the course will change to meet our needs a
 > * **HW/PB**: Write up product pitches. Use images or words from research to create a compelling story.
 
 ---
+
+### Week 6.  Pitch projects and make sure one of em sticks.
+
+***Objectives:*** *Close of ideation phase. Select projects. Start focused research and exploration of concept.*
+
+**9/30 M  Day 23  Project selection; Use Cases; Features; Content; Ethics**
+
+> * **Activities**: Share out pitches; Vote; Discuss what to build
+> * **HW/PB**: Brainstorm:
+    * What features do we want?
+    * What is the hierarchy?
+    * What are the use cases?
+
+**10/1 TU  Day 24  Task analysis - What is the desired app workflow?; Points for intervention**
+
+> * **Activities**: Share out thoughts; Roleplay “new” process for some use cases; Discuss/document
+> * **HW/PB**: Document observations, insights from task analysis
+
+**10/2 W  Day 25  Core concept; Feature selection and hierarchy; Future considerations; Design elements and principles;  Design Patterns**
+
+*Design*
+
+> * **Topics**: Design elements and principles
+> * **Activities**: Continue work on mood/inspiration boards; What imagery, themes, treatments, layouts do we like?
+
+*Dev *
+
+> * **Topics**: Simple Design Patterns: Delegates, MVC, Singleton
+> * **Activities**: Discussion & Live Coding
+
+*Both*
+
+> * **HW/PB**: Look at any other apps that deal with similar features.
+    * Can we apply any of these ideas?
+    * Are there things we want to avoid?
+    * What works/doesn’t work?
+    * Draw 1 screen for what you think we might be building.
+
+**10/3 TH  Day 26  Review current assessment (participation), OPEN HOUSE, Content: what are we building around?, Presenting concepts**
+
+*Design*
+
+> * **Activities**: Discussion/Group work: Review content and consider variations (groupings, voice, display format, etc.)
+
+*Dev *
+
+> * **Activities**: Discussion: 
+    * Where is the content coming from?
+    * What is the format?
+    * How will we handle it?
+    * Validation necessary? etc.
+
+*Both*
+
+> * **HW/PB**: Determine what the content will be and begin “cleaning it up” for use in next stage of prototyping.
+
+**10/4 F  Day 27  Design Persona - Capturing the experience;  DEV: feature specific topics**
+
+*Design*
+
+> * **Topics**: Design Persona
+> * **Activities**: Group Work: Create design persona
+
+*Dev *
+
+> * **Topics**: Contingent upon projects
+> * **Activities**: Discussion & Live Coding
+
+*Both*
+
+> * **HW/PB**:
+    * What do you think we’re building?
+    * Where is it fuzzy?
+    * What questions do I have?
+
+## PHASE 2. Design & Build
+
+I'll transfer this part over later. In the meantime, here's a Wikipedia article on the [Design-Build concept](http://en.wikipedia.org/wiki/Design–build) as applies to architecture.
