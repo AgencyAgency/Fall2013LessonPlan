@@ -12,14 +12,14 @@ The course takes students through a full design and development process with the
 ## Highlights
 
 1. [Instructors](#instructors)
-2. Purpose and Organization
-3. Course Objectives
-4. Assessments
-5. Project Scope
-6. Optional Reading
-7. Course Schedule
-8. Editing This Document
-9. License
+2. [Purpose and Organization](#purpose-and-organization)
+3. [Course Objectives](#course-objectives)
+4. [Assessments](#assessments)
+5. [Project Scope](#project-scope)
+6. [Optional Reading](#optional-reading)
+7. [Course Schedule](#course-schedule)
+8. [Editing This Document](#want-to-help-edit-this-document)
+9. [License](#license)
 
 ## Instructors
 
