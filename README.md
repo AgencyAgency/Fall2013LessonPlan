@@ -87,7 +87,7 @@ There is no assigned reading *before* the course starts. However, we encourage y
 
 Expect changes in dates and topics as the course will change to meet our needs as they develop.
 
-The **[full course schedule][course schedule]** (what's posted of it) can be found on the dedicated [course schedule][] page.
+The [full course schedule][course schedule] (what's posted of it) can be found on the dedicated [course schedule][] page.
 
 ## Want to help edit this document?
 
