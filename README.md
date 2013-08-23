@@ -6,7 +6,20 @@ This page contains elaborate plans for the [AgencyAgency](http://agencyagency.cc
 ‘Iolani School, [Sullivan Center](http://www.iolani.org/about/sullivan-center)'s iPad App Design &amp; Development course lesson plan for Fall semester of 2013.
 
 ## Course Description
+
 The course takes students through a full design and development process with the release of an iPad app that serves the school community as the final course project deliverable. Work will be team-based and activity-oriented.
+
+## Highlights
+
+1. [Instructors](#instructors)
+2. Purpose and Organization
+3. Course Objectives
+4. Assessments
+5. Project Scope
+6. Optional Reading
+7. Course Schedule
+8. Editing This Document
+9. License
 
 ## Instructors
 
