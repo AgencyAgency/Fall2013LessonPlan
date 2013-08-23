@@ -87,7 +87,7 @@ There is no assigned reading *before* the course starts. However, we encourage y
 
 Expect changes in dates and topics as the course will change to meet our needs as they develop.
 
-The full course schedule (what's posted of it) can be found on the dedicated [course schedule](https://github.com/AgencyAgency/Fall2013LessonPlan/blob/master/COURSE_SCHEDULE.md) page.
+The **[full course schedule][course schedule]** (what's posted of it) can be found on the dedicated [course schedule][] page.
 
 ## Want to help edit this document?
 
@@ -100,3 +100,5 @@ If you want to learn how to write Markdown (the syntax) used for this web page, 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+[course schedule]: https://github.com/AgencyAgency/Fall2013LessonPlan/blob/master/COURSE_SCHEDULE.md "Course Schedule"
