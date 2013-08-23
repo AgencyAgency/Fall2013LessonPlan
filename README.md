@@ -16,9 +16,24 @@ Please contact us if you plan on being absent, are unable to participate, or wis
 The purpose of the course is to provide real-world experience in a variety of aspects including the design and development process, skill acquisition, concept application, to participating in a collaborative work environment. As such, you will either be working together as a class or in smaller groups of three to five individuals.
 
 The course will be structured around the following:
-1) in-class instruction
-2) in-class activities
-3) discussion of readings/activities (review of “homework” or in-class activities)
-4) active work time
-5) presentations
-6) critiques
+1. in-class instruction
+2. in-class activities
+3. discussion of readings/activities (review of “homework” or in-class activities)
+4. active work time
+5. presentations
+6. critiques
+
+
+
+
+
+
+
+
+## Want to help edit this document?
+
+You can submit a pull request.
+
+If you want to learn how to write Markdown (the syntax) used for this web page, check out these links:
+* (Markdown Syntax)[http://daringfireball.net/projects/markdown/syntax] by Daring Fireball
+* (GitHub Flavored Markdown)[https://help.github.com/articles/github-flavored-markdown] - some extras for GitHub
