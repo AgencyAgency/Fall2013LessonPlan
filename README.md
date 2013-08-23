@@ -98,7 +98,7 @@ If you want to learn how to write Markdown (the syntax) used for this web page, 
 * [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax), by Daring Fireball
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) - some extras for GitHub
 
-To preview your Markdown locally, try [Marked](http://markedapp.com) ($3.99). It has a GitHub *Preview Style*.
+To preview your Markdown locally, try the [Marked Mac App](http://markedapp.com) ($3.99). It has a GitHub *Preview Style*.
 
 
 ## License
