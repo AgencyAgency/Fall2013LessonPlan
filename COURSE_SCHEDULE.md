@@ -12,7 +12,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 1.   Welcome, we are a design office 
 
-*Objectives: Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
+***Objectives:** Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
 
 **8/26 M  Day 1** Introductions - who are we and what is this class about?, Course logistics
 
@@ -58,7 +58,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 2.  Design is about people 
 
-*Objective: Introduction to research in the context of business and design considerations*
+***Objective:** Introduction to research in the context of business and design considerations*
 
 **9/2 M** No class meeting
 
@@ -88,7 +88,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ### Week 3.  Be inspired. Begin to see relationships.
 
-*Objective: Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
+***Objectives:** Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
 
 **9/9 M  Day 9** Who do we want to be our audience?
 
@@ -124,9 +124,9 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 ## *First half of PHASE 1 complete*
 
-## Week 4.  Become a futurist. Envision a positive future.
+### Week 4.  Become a futurist. Envision a positive future.
 
-*Objective: Extract design implications and begin to clarify solution space. Introduce basic programming concepts.*
+***Objectives:** Extract design implications and begin to clarify solution space. Introduce basic programming concepts.*
 
 **9/16 M  Day 14   Core coding concepts - Objects**
 
@@ -152,6 +152,25 @@ Expect changes in dates and topics as the course will change to meet our needs a
 > * **HW/PB**: Finish vision statements and personas
 
 ---
+
+### Week 5.  Ideas are cheap. Feel free to play with them roughly.
+
+***Objectives:** Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
+
+***Note that there are two columns for activities or homework to indicate role differences.***
+
+**9/23  Day 18  Design and development roles; Group brainstorming guidelines; Logistics**
+
+> * **Activities**: Checkpoint: where are we in our process. Get organized.
+> * **HW/PB**: What do you want your role to be? Be ready to choose.
+
+9/24  Day 19  Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis; 
+
+> * **Activities**: Telestrations; Practice critiquing
+> | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
