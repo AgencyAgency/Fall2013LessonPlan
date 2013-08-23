@@ -19,6 +19,8 @@ Expect changes in dates and topics as the course will change to meet our needs a
 * **Activities**: Apples-to-Apples; Get to know our collective skills
 * **HW**: Write your bio and brainstorm ideas for our office “self representations”
 
+- - -
+
 **8/27 TU  Day 2** What will we be doing? - Collaboration, Project Management, Process documentation; Course Progression, Topics, Schedule;
 
 *  What is an iPad technically speaking?; What is an app?;
