@@ -73,9 +73,8 @@ There is no assigned reading *before* the course starts. However, we encourage y
 ## Course Schedule
 
 Expect changes in dates and topics as the course will change to meet our needs as they develop.
-“Activities” lists the general activities for the day in the context of the topics. “HW” (i.e. homework) is the thinking or activities to be done in preparation for the following day(s) and “PB” (i.e. process book) are some prompts to consider in documenting your process.
 
- Denotes a coding topic, roughly speaking.
+The full course schedule (what's posted of it) can be found on the dedicated [course schedule](https://github.com/AgencyAgency/Fall2013LessonPlan/blob/master/COURSE_SCHEDULE.md) page.
 
 ## Want to help edit this document?
 
