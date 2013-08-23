@@ -102,4 +102,4 @@ Expect changes in dates and topics as the course will change to meet our needs a
 * **HW**: Finish up interviews (due 9/18)
 * **PB**: How do the mental models influence your thinking? your understanding? How do you want to see the future of ‘Iolani?
 
-### First half of PHASE 1 complete
+### *First half of PHASE 1 complete*
