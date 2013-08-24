@@ -26,8 +26,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 > *  What is an iPad technically speaking?; What is an app?;
 > * **Activities**:
     * Office “photos”;
-    * Start using tools;
-    * Review downloaded apps
+    * Start using tools
 > * **HW**: Download an app and evaluate your experience
 > * **PB**:
     * What are your personal values?
@@ -38,7 +37,7 @@ Expect changes in dates and topics as the course will change to meet our needs a
 **8/29 TH  Day 3** Project Kickoff! Ethics; Goals; Constraints; What are our assumptions?
 
 > * **Activities**: 
-    * Discuss HW; 
+    * Discuss HW (Review downloaded apps); 
     * Discuss what ethics means in the context of the iPad and greater technology trends;
     * Discuss project goals; 
     * Defining ‘Iolani and Community - 5Ws & H;
