@@ -18,6 +18,8 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 **8/26 M  Day 1** Introductions - who are we and what is this class about?, Course logistics
 
+[PDF of slides.](https://github.com/AgencyAgency/Fall2013LessonPlan/raw/master/COURSE_SCHEDULE_SLIDES/CourseDay1.pdf)
+
 > * **Activities**: Apples-to-Apples; Get to know our collective skills
 > * **HW**: Write your bio and brainstorm ideas for our office “self representations”
 
