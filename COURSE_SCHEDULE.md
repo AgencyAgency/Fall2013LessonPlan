@@ -22,6 +22,12 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
 > * **Activities**: Apples-to-Apples; Get to know our collective skills
 > * **HW**: Write your bio and brainstorm ideas for our office “self representations”
+> * **HW**: Tool invites, don't be afraid. Kyle will be sending you invites to:
+    * Basecamp
+    * Campfire
+    * KanbanFlow
+    * GitHub (see email from Kyle)
+    * Google Docs (see email from Kyle)
 
 **8/27 TU  Day 2** What will we be doing? - Collaboration, Project Management, Process documentation; Course Progression, Topics, Schedule;
 
@@ -30,13 +36,6 @@ Expect changes in dates and topics as the course will change to meet our needs a
     * Office “photos”;
     * Start using tools
 > * **HW**: Download an app and evaluate your experience
-> * **HW**: Tool invites, don't be afraid. Kyle will be sending you invites to:
-    * Basecamp
-    * Campfire
-    * KanbanFlow
-    * GitHub (see email from Kyle)
-    * Google Docs (see email from Kyle)
-
 > * **PB**:
     * What are your personal values?
     * How do you feel about the introduction of this technology? Fears? Desires? Unknowns?
