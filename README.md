@@ -59,6 +59,8 @@ Through this real-world project, the course aims to:
 
 This course uses assessments to help increase individual self-awareness and assess student performance potential. The framework for the rubric(s) are based on meeting Sullivan Center's learning objectives, and the Partnership for 21st Century Skills’ framework. There will be no quizzes, or tests. Assignments will not be graded except in the larger context of the final project deliverables and participation. 
 
+If you're interested in the assessment rubric, please see [the example sheet](https://github.com/AgencyAgency/Fall2013LessonPlan/raw/master/AssessmentRubric.pdf). We will use this to give you feedback on your progress and potential. It does not equate to a grade.
+
 As this is a semester long course, assessments will be based on the following items and on the following schedule. The project schedule may shift and the dates may change accordingly.
 
 * Oct 24, 2013  40% Participation (Qtr 1)
