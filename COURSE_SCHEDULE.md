@@ -8,6 +8,8 @@ Expect changes in dates and topics as the course will change to meet our needs a
 
  Denotes a coding topic, roughly speaking.
 
+Daily slides are posted to Basecamp.
+
 ***Note that some days display two tracks (Design and Dev) for activities and homework to indicate role differences.***
 
 ## PHASE 1. Basic Skills, Fundamental Concepts, Research
@@ -17,8 +19,6 @@ Expect changes in dates and topics as the course will change to meet our needs a
 ***Objectives:*** *Get us up and running as a design office. Cover the logistics and necessary course details. Kickoff the project.*
 
 **8/26 M  Day 1** Introductions - who are we and what is this class about?, Course logistics
-
-[PDF of slides.](https://github.com/AgencyAgency/Fall2013LessonPlan/raw/master/COURSE_SCHEDULE_SLIDES/CourseDay1.pdf)
 
 > * **Activities**: Apples-to-Apples; Get to know our collective skills
 > * **HW**: Write your bio and brainstorm ideas for our office “self representations”
