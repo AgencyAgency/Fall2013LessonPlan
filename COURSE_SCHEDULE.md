@@ -64,6 +64,8 @@ Daily slides are posted to Basecamp.
 > * **HW/PB**: 
     * Download an app and evaluate your experience
     * Choose three areas of interest and be ready to share why
+    * Find a laptop case, cover, or carrying solution. If you think you might be interested in doing some of the design work, you might end up switching to a 15" Macbook Pro. So, it might be best to find something that fits either computer.
+    
 
 ---
 
