@@ -55,13 +55,15 @@ Daily slides are posted to Basecamp.
     * What is unique about the Sullivan Center?;
     * Mind-maps;
     * Brainstorming
-> * **HW**: Download an app and evaluate your experience
+> * **HW**: Fill in your part of the ‘Iolani Who, What, When, Where, Why, & How shared document.
 > * **PB**: How do you want an app to make you/others feel? What do you want to put out in the world?
 
 **8/30 F  Day 4** What are our opportunities? - identify areas of interest; Project scope 
 
 > * **Activities**: Discuss HW (Review downloaded apps); SWOT analysis; Mind-maps; Brainstorming; 1 and 2 axes
-> * **HW/PB**: Choose three areas of interest and be ready to share why
+> * **HW/PB**: 
+    * Download an app and evaluate your experience
+    * Choose three areas of interest and be ready to share why
 
 ---
 
