@@ -49,18 +49,14 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: 
     * Discuss HW (Review pet peeves & what you love); 
-    * Discuss what ethics means in the context of the iPad and greater technology trends;
-    * Discuss project goals; 
     * Defining ‘Iolani and Community - 5Ws & H;
-    * What is unique about the Sullivan Center?;
-    * Mind-maps;
-    * Brainstorming
+    * Mind-maps
 > * **HW**: Fill in your part of the ‘Iolani Who, What, When, Where, Why, & How shared document.
 > * **PB**: How do you want an app to make you/others feel? What do you want to put out in the world?
 
 **8/30 F  Day 4** What are our opportunities? - identify areas of interest; Project scope 
 
-> * **Activities**: Discuss HW (Review downloaded apps); SWOT analysis; Mind-maps; Brainstorming; 1 and 2 axes
+> * **Activities**: SWOT analysis; Brainstorming
 > * **HW/PB**: 
     * Download an app and evaluate your experience
     * Choose three areas of interest and be ready to share why
