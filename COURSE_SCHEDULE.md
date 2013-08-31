@@ -57,9 +57,9 @@ Daily slides are posted to Basecamp.
 **8/30 F  Day 4** What are our opportunities? - identify areas of interest; Project scope 
 
 > * **Activities**: SWOT analysis; Brainstorming
-> * **HW/PB**: 
+> * **HW/PB**: What do you think you want to create? What are your assumptions about what you can or cannot create?
     * Download an app and evaluate your experience
-    * Choose three areas of interest and be ready to share why
+    * Review our various insights based on research to date. Who do you think you would want to build an app for? Are there any specific opportunities of interest to you? Pick two "directions".
     * Find a laptop case, cover, or carrying solution. If you think you might be interested in doing some of the design work, you might end up switching to a 15" Macbook Pro. So, it might be best to find something that fits either computer.
     
 
@@ -71,27 +71,31 @@ Daily slides are posted to Basecamp.
 
 **9/2 M** No class meeting
 
-**9/3 TU  Day 5** What are our directions (who/what)? Stakeholders? Survey writing
+**9/3 TU  Day 5** What is the iPad? What is an app?
 
-> * **Activities**: Share out HW; Select a direction for further research; Stakeholder analysis; Create surveys and identify whom to survey
-> * **HW**: Complete surveys and submit via email for review
-> * **PB**: What are your thoughts, opinions, emotions on selecting a direction?
+> * **Activities**: Share out app reviews; Discuss some of the technical details of iPads and apps.
+> * **HW**: Dev exercise
+> * **PB**: Any ideas that come to mind after discussing various apps?
 
-**9/4 W  Day 6** Ethnographic methods - observe, listen, and ask questions
+**9/4 W  Day 6** Dev Topics
 
-> * **Activities**: Walk around campus, take notes & photos 
-> * **HW/PB** : Think about whom you might want to observe/interview; continue field research; Any new insights?
+> * **Activities**: Dev topics
+> * **HW/PB** : Read about ethnographic methods. 
+     * Think about a typical day for yourself. Write down what you do from when you wake up in the morning to when you go to bed at night. When you do something and where you go. What are the high points and low points of the day? Why? 
+     * Do you have any assumptions about what you expect to see out in the field? Write them down. 
+     
+**9/5 TH  Day 7** Ethnographic methods - observe, listen, and ask questions
 
-**9/5 TH  Day 7** Competitive analysis - what are others doing? 
+> * **Activities**: Review typical days and discuss patterns, example walk around campus, take notes & photos 
+> * **HW/PB**: Who do you want to build a solution for? Whom do you want to ask more questions of? Pick an audience of interest and write survey questions.
+     
+**9/6 F  Day 8** Field research
 
-> * **Activities**: Web research
-> * **HW/PB**: Continue research activities; Any new insights?
-
-**9/6 F  Day 8** Interview guidelines
-
-> * **Activities**: Identify whom to observe/interview; Write interviews (submit via email by Sunday night)
-> * **HW**: Finish writing interview; Continue general research activities
-> * **PB**: What do you hope to learn from the interview? Hypotheses?
+> * **Activities**: Split up and research campus; Survey writing
+> * **HW**: Dev exercise
+> * **PB**: Did any new opportunities come to light? What are they? Summarize and synthesize your findings.
+     * Did the "field research" raise any new questions? Did it shed light on any assumptions you may have had?
+     * Think about whom you might want to observe/interview. What do you hope to learn from the interview? Hypotheses?
 
 ---
 
@@ -99,16 +103,16 @@ Daily slides are posted to Basecamp.
 
 ***Objectives:*** *Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
 
-**9/9 M  Day 9** Who do we want to be our audience?
+**9/9 M  Day 9** Stakeholders, Surveys, Interviews
 
 > * **Activities**: Review research; Affinity map; Brainstorming
-> * **HW**: Review feedback on interview and revise if necessary.
+> * **HW**: Dev topic?
 > * **PB**: What are some insights? Possible concepts/solutions?
 
-**9/10 TU  Day 10** Communicating research findings - Themes, Patterns, Insights
+**9/10 TU  Day 10** Who do we want to be our audience?
 
-> * **Activities**: Research inspiration board; Brainstorming
-> * **HW**: Arrange for an interview (complete interview by 9/18)
+> * **Activities**: Research inspiration board; Brainstorming; Select audience
+> * **HW**: Write and arrange for an interview (complete interview by 9/18)
 > * **PB**: What are you inspired by thus far?
 
 **9/11 W  Day 11**  Find more inspiration, local, regional, world trends/events;
@@ -116,6 +120,7 @@ Daily slides are posted to Basecamp.
 > *  Core iOS coding concepts - Storyboards, View Controllers, Views
 > * **Activities**: Periodical reading; Add to inspiration board/brainstorming
 > * **HW**: Find one thing from your reading that may be relevant.
+      * Download apps and do online research of competitive products. Analyze what are others doing successfully? Poorly? Anything you would want to consider in our own design?
 > * **PB**: Has the reading inspired anything new?
 
 **9/12 TH  Day 12**  
