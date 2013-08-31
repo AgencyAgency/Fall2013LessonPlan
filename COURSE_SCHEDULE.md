@@ -58,7 +58,7 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: SWOT analysis; Brainstorming
 > * **HW/PB**: What do you think you want to create? What are your assumptions about what you can or cannot create?
-    * Download an app and evaluate your experience
+    * [Download an app and evaluate your experience](https://docs.google.com/a/iolani.org/document/d/135_Ek4JC2QDbDcFvzzCGoAOUUMYy3TQwu5zEKL9j__M/edit?usp=sharing)
     * Review our various insights based on research to date. Who do you think you would want to build an app for? Are there any specific opportunities of interest to you? Pick two "directions".
     * Find a laptop case, cover, or carrying solution. If you think you might be interested in doing some of the design work, you might end up switching to a 15" Macbook Pro. So, it might be best to find something that fits either computer.
     
@@ -74,12 +74,12 @@ Daily slides are posted to Basecamp.
 **9/3 TU  Day 5** What is the iPad? What is an app?
 
 > * **Activities**: Share out app reviews; Discuss some of the technical details of iPads and apps.
-> * **HW**: Dev exercise
+> * **HW**: [Building your first iPad app in the Simulator](https://docs.google.com/a/iolani.org/presentation/d/1aj5GtTPBWwROB4PjHm9OCM3eMWNqIXaqVEuaaKp6ahI/edit?usp=sharing)
 > * **PB**: Any ideas that come to mind after discussing various apps?
 
-**9/4 W  Day 6** Dev Topics
+**9/4 W  Day 6** Building your first iPad app
 
-> * **Activities**: Dev topics
+> * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
 > * **HW/PB** : Read about ethnographic methods. 
      * Think about a typical day for yourself. Write down what you do from when you wake up in the morning to when you go to bed at night. When you do something and where you go. What are the high points and low points of the day? Why? 
      * Do you have any assumptions about what you expect to see out in the field? Write them down. 
