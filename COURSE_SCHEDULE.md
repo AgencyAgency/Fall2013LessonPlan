@@ -75,6 +75,15 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: Share out app reviews; Discuss some of the technical details of iPads and apps.
 > * **HW**: [Building your first iPad app in the Simulator](https://docs.google.com/a/iolani.org/presentation/d/1aj5GtTPBWwROB4PjHm9OCM3eMWNqIXaqVEuaaKp6ahI/edit?usp=sharing)
+> * **HW**: Hear what Steve Job's has to say about life in [this video](http://www.youtube.com/watch?v=kYfNvmF0Bqw&feature=youtu.be&t=9s) (< 2min)
+     * Have you had an experience like this?
+     * Is it possible to think of what that might be like if you haven't?
+     * Could this class help? Is this related to the "agency" idea we mentioned on day 1?
+> * **HW**: Listen to Steve Job's [Commencement Address to Stanford in 2005](https://vimeo.com/69898831) (~15min)
+     * Why is this talk ironic?
+     * How far will school take you? Does your own initiative play a role in success?
+     * Steve Jobs had opinions. Strong opinions. You don't have to agree with him. But, you can't argue with his ability to figure out what he wanted and then create it.
+     * Think about what Jobs says about "time." This is a short class, every class period counts. Don't waste it.
 > * **PB**: Any ideas that come to mind after discussing various apps?
 
 **9/4 W  Day 6** Building your first iPad app
