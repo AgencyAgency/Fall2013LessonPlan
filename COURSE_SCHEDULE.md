@@ -91,13 +91,14 @@ Daily slides are posted to Basecamp.
 > * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
 > * **HW/PB** : Read about ethnographic methods. 
      * Think about a typical day for yourself. Write down what you do from when you wake up in the morning to when you go to bed at night. When you do something and where you go. What are the high points and low points of the day? Why? 
-     * Do you have any assumptions about what you expect to see out in the field? Write them down. 
+     * Pick two topics/issues/audiences of interest. It will help us to discuss narrowing our focus for field research.
      
 **9/5 TH  Day 7** Ethnographic methods - observe, listen, and ask questions
 
 > * **Activities**: Review typical days and discuss patterns, example walk around campus, take notes & photos (finishing up 5Ws & H)
 > * **HW/PB**: Who do you want to build a solution for? Whom do you want to ask more questions of? Pick an audience of interest and write survey questions.
-     
+           * Do you have any assumptions about what you expect to see out in the field? Write them down.  
+         
 **9/6 F  Day 8** Field research
 
 > * **Activities**: Split up and research campus; Survey writing
