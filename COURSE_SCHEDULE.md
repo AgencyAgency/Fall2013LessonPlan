@@ -84,28 +84,32 @@ Daily slides are posted to Basecamp.
      * How far will school take you? Does your own initiative play a role in success?
      * Steve Jobs had opinions. Strong opinions. You don't have to agree with him. But, you can't argue with his ability to figure out what he wanted and then create it.
      * Think about what Jobs says about "time." This is a short class, every class period counts. Don't waste it.
+> * **HW**: As you continue your day. Write down the first thing that bothers you about your iPad. Also, the first thing that bothers you about ‘Iolani. Report back tomorrow.
+> * **HW**: Share a goal of yours with someone you know. Anyone. Report back tomorrow. You chose the format of sharing.
 > * **PB**: Any ideas that come to mind after discussing various apps?
 
 **9/4 W  Day 6** Building your first iPad app
 
 > * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
-> * **HW/PB** : Think about a typical day for yourself. Write down what you do from when you wake up in the morning to when you go to bed at night. When you do something and where you go. What are the high points and low points of the day? Why? 
-     * Pick two topics/issues/audiences of interest. It will help us to discuss narrowing our focus for field research.
+> * **HW**: Use LAB 2 to: Complete the setup process for your developer certificate and deploy an app to your iPad. https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing
+> * **HW**: Review the research we've done so far and consider whether there are two audiences, topics, issues that are of interest to you? (Ex. Tardies/Attendance Office and Students) Have them ready so we can just share and determine if we want to focus our field work at this point. How you choose is up to you. What do you want to work on this semester? Who do you want to help? What school processes do you want to learn more about? https://basecamp.com/1826635/projects/3661215-agencyagency/documents/3764793-early-research
+> * **HW**: Think about the qualities that you want in your teachers. I will give you time to talk together and start creating a rubric for Kyle & I (and potentially for teachers in general).
+> * **HW**: Write up your "typical Iolani day." Everyone please create your own Google Doc and share it with the class. What do you do and when (approximate time/durations) from when you wake up through till you go to bed. I don't need explicit details (what you ate for lunch) unless it's part of the "typical" decisions of you make. I would want to know things like whether you walked to your locker to get your lunch, carried it around with you all day, or went to buy it from somewhere (and where). If it helps, just write down what you did on Tuesday of this week. It'll just help us to understand things like personal process flows and we can do more to look for patterns. Step through it like you're talking to someone who hasn't ever gone to school before (has no assumptions about your routine).
+> * **HW-ish**: You don't need your laptop Thursday or Friday. I'll extend the app LAB on Friday, based on feedback between now and then.
+> * **HW-ish**: Bring a digital camera/iphone/ipad in case we have time to start our field research.
+> * **PB**: Whenever we ask you to "think about" something. Or, share something. Put it in your process book, unless you want to email it, post it, Muddy Point it, or talk about it in person.
      
 **9/5 TH  Day 7** Ethnographic methods - observe, listen, and ask questions
 
 > * **Activities**: Review typical days and discuss patterns, example walk around campus, take notes & photos (finishing up 5Ws & H)
-> * **HW/PB**: Start writing possible survey questions for your selected audience and topic.
-   * Do you have any assumptions about what you expect to see out in the field? Write them down.  
-   * Start taking photos to help illustrate your typical days. Look for physical traces.
+> * **HW**: Start taking photos to help illustrate your typical day write-up. Look for physical traces.
+> * **HW/PB**: Start writing some possible survey questions for your selected audience and topic. Do you have any assumptions about what you expect to see/hear out in "the field" (interviews, photo ethnography)? Write them down as well.
          
 **9/6 F  Day 8** Field research
 
 > * **Activities**: Split up and research campus; Survey writing
-> * **HW**: Dev exercise
-> * **PB**: Did any new opportunities come to light? What are they? Summarize and synthesize your findings.
-     * Did the "field research" raise any new questions? Did it shed light on any assumptions you may have had?
-     * Think about whom you might want to observe/interview. What do you hope to learn from the interview? Hypotheses?
+> * **HW**: Finish writing interview; Continue general research activities
+> * **PB**: What do you hope to learn from the interview? Hypotheses?
 
 ---
 
