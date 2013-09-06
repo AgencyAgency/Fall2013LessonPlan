@@ -98,6 +98,7 @@ Daily slides are posted to Basecamp.
 > * **Activities**: Review typical days and discuss patterns, example walk around campus, take notes & photos (finishing up 5Ws & H)
 > * **HW/PB**: Who do you want to build a solution for? Whom do you want to ask more questions of? Pick an audience of interest and write survey questions.
            * Do you have any assumptions about what you expect to see out in the field? Write them down.  
+           * Start taking photos to help illustrate your typical days. Look for physical traces.
          
 **9/6 F  Day 8** Field research
 
