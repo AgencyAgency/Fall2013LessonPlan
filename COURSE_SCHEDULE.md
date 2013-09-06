@@ -91,8 +91,8 @@ Daily slides are posted to Basecamp.
 **9/4 W  Day 6** Building your first iPad app
 
 > * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
-> * **HW**: Use LAB 2 to: Complete the setup process for your developer certificate and deploy an app to your iPad. https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing
-> * **HW**: Review the research we've done so far and consider whether there are two audiences, topics, issues that are of interest to you? (Ex. Tardies/Attendance Office and Students) Have them ready so we can just share and determine if we want to focus our field work at this point. How you choose is up to you. What do you want to work on this semester? Who do you want to help? What school processes do you want to learn more about? https://basecamp.com/1826635/projects/3661215-agencyagency/documents/3764793-early-research
+> * **HW**: Use LAB 2 to: [Complete the setup process for your developer certificate and deploy an app to your iPad.](https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing)
+> * **HW**: [Review the research we've done so far](https://basecamp.com/1826635/projects/3661215-agencyagency/documents/3764793-early-research) and consider whether there are two audiences, topics, issues that are of interest to you? (Ex. Tardies/Attendance Office and Students) Have them ready so we can just share and determine if we want to focus our field work at this point. How you choose is up to you. What do you want to work on this semester? Who do you want to help? What school processes do you want to learn more about?
 > * **HW**: Think about the qualities that you want in your teachers. I will give you time to talk together and start creating a rubric for Kyle & I (and potentially for teachers in general).
 > * **HW**: Write up your "typical Iolani day." Everyone please create your own Google Doc and share it with the class. What do you do and when (approximate time/durations) from when you wake up through till you go to bed. I don't need explicit details (what you ate for lunch) unless it's part of the "typical" decisions of you make. I would want to know things like whether you walked to your locker to get your lunch, carried it around with you all day, or went to buy it from somewhere (and where). If it helps, just write down what you did on Tuesday of this week. It'll just help us to understand things like personal process flows and we can do more to look for patterns. Step through it like you're talking to someone who hasn't ever gone to school before (has no assumptions about your routine).
 > * **HW-ish**: You don't need your laptop Thursday or Friday. I'll extend the app LAB on Friday, based on feedback between now and then.
@@ -109,6 +109,7 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: Split up and research campus; Survey writing
 > * **HW**: Finish writing interview; Continue general research activities
+> * **HW**: [Continue learning about Storyboard fundamentals](https://docs.google.com/a/iolani.org/presentation/d/1OeEIOlwkjXDd455XLnoxU_GlXFIQVMX2cETVi8n4ewI/edit?usp=sharing), by adding segues.
 > * **PB**: What do you hope to learn from the interview? Hypotheses?
 
 ---
