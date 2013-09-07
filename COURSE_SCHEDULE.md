@@ -107,10 +107,12 @@ Daily slides are posted to Basecamp.
          
 **9/6 F  Day 8** Field research
 
-> * **Activities**: Split up and research campus; Survey writing
-> * **HW**: Finish writing interview; Continue general research activities
+> * **Activities**: Split up and create process maps and formulate questions for research next steps
+> * **HW**: Continue creating process map (try creating digital version), writing up survey/interview questions, taking photos of artifacts/processes.
 > * **HW**: [Continue learning about Storyboard fundamentals](https://docs.google.com/a/iolani.org/presentation/d/1OeEIOlwkjXDd455XLnoxU_GlXFIQVMX2cETVi8n4ewI/edit?usp=sharing), by adding segues.
-> * **PB**: What do you hope to learn from the interview? Hypotheses?
+> * **HW**: Create teacher assessment rubric (class to collaborate on your own doc). 
+> * **PB**: What do you hope to learn from the interview? Hypotheses on what some the problems/challenges might be? 
+
 
 ---
 
