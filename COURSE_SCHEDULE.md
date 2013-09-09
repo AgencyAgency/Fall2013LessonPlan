@@ -71,7 +71,7 @@ Daily slides are posted to Basecamp.
 
 **9/2 M** No class meeting
 
-**9/3 TU  Day 5** What is the iPad? What is an app?
+**9/3 TU  Day 5**  What is the iPad? What is an app?
 
 > * **Activities**: Share out app reviews; Discuss some of the technical details of iPads and apps.
 > * **HW**: [Building your first iPad app in the Simulator](https://docs.google.com/a/iolani.org/presentation/d/1aj5GtTPBWwROB4PjHm9OCM3eMWNqIXaqVEuaaKp6ahI/edit?usp=sharing)
@@ -88,7 +88,7 @@ Daily slides are posted to Basecamp.
 > * **HW**: Share a goal of yours with someone you know. Anyone. Report back tomorrow. You chose the format of sharing.
 > * **PB**: Any ideas that come to mind after discussing various apps?
 
-**9/4 W  Day 6** Building your first iPad app
+**9/4 W  Day 6**  Building your first iPad app
 
 > * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
 > * **HW**: Use LAB 2 to: [Complete the setup process for your developer certificate and deploy an app to your iPad.](https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing)
@@ -120,13 +120,15 @@ Daily slides are posted to Basecamp.
 
 ***Objectives:*** *Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
 
-**9/9 M  Day 9** Stakeholders, Surveys, Interviews
+**9/9 M  Day 9**  Storyboarding
 
-> * **Activities**: Review research; Affinity map; Brainstorming
-> * **HW**: Dev topic?
-> * **PB**: What are some insights? Possible concepts/solutions?
+> * **Activities**: Live Coding: Review Lab 3 (Navigation Controllers with Segues) and extend with Actions and Outlets
+> * **HW**: Lab 4 - Outlets & Actions
+> * **HW**: Finish first draft of survey and interview questions.
+> * **PB**: Checkpoint: How do you think things are going so far?
+> * **PB**: Bring your process book to class on Tuesday. We would like to review them.
 
-**9/10 TU  Day 10** Who do we want to be our audience?
+**9/10 TU  Day 10** Stakeholders, Surveys, Interviews
 
 > * **Activities**: Research inspiration board; Brainstorming; Select audience
 > * **HW**: Write and arrange for an interview (complete interview by 9/18)
