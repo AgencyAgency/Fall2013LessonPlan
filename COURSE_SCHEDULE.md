@@ -123,7 +123,7 @@ Daily slides are posted to Basecamp.
 **9/9 M  Day 9**  Storyboarding
 
 > * **Activities**: Live Coding: Review Lab 3 (Navigation Controllers with Segues) and extend with Actions and Outlets
-> * **HW**: LAB 4 - Outlets & Actions
+> * **HW**: [LAB 4 - Storyboarding: Actions](https://docs.google.com/a/iolani.org/presentation/d/1laZZmWoiqJYLWF1sg1mya2D0_VTXK-yAsK-KB-r1fIg/edit?usp=sharing)
 > * **HW**: Finish first draft of survey and interview questions.
 > * **PB**: Checkpoint: How do you think things are going so far?
 > * **PB**: Bring your process book to class on Tuesday. We would like to review them.
@@ -131,6 +131,7 @@ Daily slides are posted to Basecamp.
 **9/10 TU  Day 10** Stakeholders, Surveys, Interviews
 
 > * **Activities**: Research inspiration board; Brainstorming; Select audience
+> * **HW**: LAB 5 - Storyboarding: Outlets
 > * **HW**: Write and arrange for an interview (complete interview by 9/18)
 > * **PB**: What are you inspired by thus far?
 
