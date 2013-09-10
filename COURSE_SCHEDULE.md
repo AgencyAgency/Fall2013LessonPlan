@@ -131,13 +131,12 @@ Daily slides are posted to Basecamp.
 **9/10 TU  Day 10** Stakeholders, Surveys, Interviews
 
 > * **Activities**: Research inspiration board; Brainstorming; Select audience
-> * **HW**: LAB 5 - Storyboarding: Outlets
+> * **HW**: [LAB 5 - Storyboarding: Outlets](https://docs.google.com/a/iolani.org/presentation/d/1i7ohutQYbfsCYfNuum9csPqrCee2xBzyab_6_eAjwjc/edit?usp=sharing)
 > * **HW**: Write and arrange for an interview (complete interview by 9/18)
 > * **PB**: What are you inspired by thus far?
 
 **9/11 W  Day 11**  Find more inspiration, local, regional, world trends/events;
 
-> *  Core iOS coding concepts - Storyboards, View Controllers, Views
 > * **Activities**: Periodical reading; Add to inspiration board/brainstorming
 > * **HW**: Find one thing from your reading that may be relevant.
       * Download apps and do online research of competitive products. Analyze what are others doing successfully? Poorly? Anything you would want to consider in our own design?
@@ -145,14 +144,13 @@ Daily slides are posted to Basecamp.
 
 **9/12 TH  Day 12**  
 
-> *  Core coding concepts - Git
 > * **Activities**: Share out; Add to boards; Group discussion on mental models
 > * **HW**: How would you explain Git? Come up with a metaphor, model, etc.
 > * **PB**: Has learning about the coding concepts opened new perspectives?
 
-**9/13 F  Day 13**  Mental models; Vision Statements
+**9/13 F  Day 13**   Coding Basics - Models of OO
 
-> * **Activities**: Share out (Git models)
+> * **Activities**: Review homework via Live Coding. Begin descent into Object-Oriented programming.
 > * **HW**: Finish up interviews (due 9/18)
 > * **PB**: How do the mental models influence your thinking? your understanding? How do you want to see the future of ‘Iolani?
 
