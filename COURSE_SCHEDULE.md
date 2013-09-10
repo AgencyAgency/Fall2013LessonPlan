@@ -74,7 +74,7 @@ Daily slides are posted to Basecamp.
 **9/3 TU  Day 5**  What is the iPad? What is an app?
 
 > * **Activities**: Share out app reviews; Discuss some of the technical details of iPads and apps.
-> * **HW**: [Building your first iPad app in the Simulator](https://docs.google.com/a/iolani.org/presentation/d/1aj5GtTPBWwROB4PjHm9OCM3eMWNqIXaqVEuaaKp6ahI/edit?usp=sharing)
+> * **HW**: [LAB 1: Building your first iPad app in the Simulator][LAB1]
 > * **HW**: Hear what Steve Job's has to say about life in [this video](http://www.youtube.com/watch?v=kYfNvmF0Bqw&feature=youtu.be&t=9s) (< 2min)
      * Have you had an experience like this?
      * Is it possible to think of what that might be like if you haven't?
@@ -91,7 +91,7 @@ Daily slides are posted to Basecamp.
 **9/4 W  Day 6**  Building your first iPad app
 
 > * **Activities**: Let's figure out how this Xcode things works. And, what are all the steps in building an app with it?
-> * **HW**: [LAB 2: Complete the setup process for your developer certificate and deploy an app to your iPad.](https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing)
+> * **HW**: [LAB 2: Complete the setup process for your developer certificate and deploy an app to your iPad.][LAB2]
 > * **HW**: [Review the research we've done so far](https://basecamp.com/1826635/projects/3661215-agencyagency/documents/3764793-early-research) and consider whether there are two audiences, topics, issues that are of interest to you? (Ex. Tardies/Attendance Office and Students) Have them ready so we can just share and determine if we want to focus our field work at this point. How you choose is up to you. What do you want to work on this semester? Who do you want to help? What school processes do you want to learn more about?
 > * **HW**: Think about the qualities that you want in your teachers. I will give you time to talk together and start creating a rubric for Kyle & me (and potentially for teachers in general).
 > * **HW**: Write up your "typical Iolani day." Everyone please create your own Google Doc and share it with the class. What do you do and when (approximate time/durations) from when you wake up through till you go to bed. I don't need explicit details (what you ate for lunch) unless it's part of the "typical" decisions of you make. I would want to know things like whether you walked to your locker to get your lunch, carried it around with you all day, or went to buy it from somewhere (and where). If it helps, just write down what you did on Tuesday of this week. It'll just help us to understand things like personal process flows and we can do more to look for patterns. Step through it like you're talking to someone who hasn't ever gone to school before (has no assumptions about your routine).
@@ -109,7 +109,7 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: Split up and create process maps and formulate questions for research next steps
 > * **HW**: Continue creating process map (try creating digital version), writing up survey/interview questions, taking photos of artifacts/processes.
-> * **HW**: [LAB 3: Continue learning about Storyboard fundamentals](https://docs.google.com/a/iolani.org/presentation/d/1OeEIOlwkjXDd455XLnoxU_GlXFIQVMX2cETVi8n4ewI/edit?usp=sharing), by adding segues.
+> * **HW**: [LAB 3: Continue learning about Storyboard fundamentals][LAB3], by adding segues.
 > * **HW**: Create teacher assessment rubric (class to collaborate on your own doc). 
 > * **PB**: What do you hope to learn from the interview? Hypotheses on what some the problems/challenges might be? 
 
@@ -123,7 +123,7 @@ Daily slides are posted to Basecamp.
 **9/9 M  Day 9**  Storyboarding
 
 > * **Activities**: Live Coding: Review Lab 3 (Navigation Controllers with Segues) and extend with Actions and Outlets
-> * **HW**: [LAB 4 - Storyboarding: Actions](https://docs.google.com/a/iolani.org/presentation/d/1laZZmWoiqJYLWF1sg1mya2D0_VTXK-yAsK-KB-r1fIg/edit?usp=sharing)
+> * **HW**: [LAB 4 - Storyboarding: Actions][LAB4]
 > * **HW**: Finish first draft of survey and interview questions.
 > * **PB**: Checkpoint: How do you think things are going so far?
 > * **PB**: Bring your process book to class on Tuesday. We would like to review them.
@@ -321,5 +321,14 @@ Daily slides are posted to Basecamp.
 I'll transfer this part over later. In the meantime, here's a Wikipedia article on the [Design-Build concept](http://en.wikipedia.org/wiki/Design–build) as applies to architecture.
 
 
+[LAB1]: https://docs.google.com/a/iolani.org/presentation/d/1aj5GtTPBWwROB4PjHm9OCM3eMWNqIXaqVEuaaKp6ahI/edit?usp=sharing
+   "LAB 1: Creating a project with Xcode & the Simulator"
+[LAB2]: https://docs.google.com/a/iolani.org/presentation/d/1QUiJBr187zGwrNB6llHcLiiktI4GkG6ozEKijmF1vHA/edit?usp=sharing
+   "LAB 2: Set up your Developer Certificate"
+[LAB3]: https://docs.google.com/a/iolani.org/presentation/d/1OeEIOlwkjXDd455XLnoxU_GlXFIQVMX2cETVi8n4ewI/edit?usp=sharing
+   "LAB 3: Storyboarding: Segues"
+[LAB4]: https://docs.google.com/a/iolani.org/presentation/d/1laZZmWoiqJYLWF1sg1mya2D0_VTXK-yAsK-KB-r1fIg/edit?usp=sharing
+   "LAB 4: Storyboarding: Actions"
 [LAB5]: https://docs.google.com/a/iolani.org/presentation/d/1i7ohutQYbfsCYfNuum9csPqrCee2xBzyab_6_eAjwjc/edit?usp=sharing
    "LAB 5: Storyboarding: Outlets"
+
