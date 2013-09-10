@@ -131,7 +131,7 @@ Daily slides are posted to Basecamp.
 **9/10 TU  Day 10** Stakeholders, Surveys, Interviews
 
 > * **Activities**: Research inspiration board; Brainstorming; Select audience
-> * **HW**: [LAB 5 - Storyboarding: Outlets](https://docs.google.com/a/iolani.org/presentation/d/1i7ohutQYbfsCYfNuum9csPqrCee2xBzyab_6_eAjwjc/edit?usp=sharing)
+> * **HW**: [LAB 5 - Storyboarding: Outlets][LAB5]
 > * **HW**: Write and arrange for an interview (complete interview by 9/18)
 > * **PB**: What are you inspired by thus far?
 
@@ -319,3 +319,7 @@ Daily slides are posted to Basecamp.
 ## PHASE 2. Design & Build
 
 I'll transfer this part over later. In the meantime, here's a Wikipedia article on the [Design-Build concept](http://en.wikipedia.org/wiki/Design–build) as applies to architecture.
+
+
+[LAB5]: https://docs.google.com/a/iolani.org/presentation/d/1i7ohutQYbfsCYfNuum9csPqrCee2xBzyab_6_eAjwjc/edit?usp=sharing
+   "LAB 5: Storyboarding: Outlets"
