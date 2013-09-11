@@ -130,22 +130,22 @@ Daily slides are posted to Basecamp.
 
 **9/10 TU  Day 10** Stakeholders, Surveys, Interviews
 
-> * **Activities**: Research inspiration board; Brainstorming; Select audience
+> * **Activities**: Purpose of research; Writing Surveys & Interviews 
 > * **HW**: [LAB 5 - Storyboarding: Outlets][LAB5]
-> * **HW**: Write and arrange for an interview (complete interview by 9/18)
-> * **PB**: What are you inspired by thus far?
+> * **HW**: Review survey and interview questions, Start a Google Form if necessary
 
-**9/11 W  Day 11**  Find more inspiration, local, regional, world trends/events;
 
-> * **Activities**: Periodical reading; Add to inspiration board/brainstorming
-> * **HW**: Find one thing from your reading that may be relevant.
-      * Download apps and do online research of competitive products. Analyze what are others doing successfully? Poorly? Anything you would want to consider in our own design?
-> * **PB**: Has the reading inspired anything new?
+**9/11 W  Day 11**  Surveys, Interviews
+
+> * **Activities**: Finish group writing of surveys and interviews (Collect process books)
+> * **HW**: Finish survey and interview questions.
+
 
 **9/12 TH  Day 12**  
 
-> * **Activities**: Share out; Add to boards; Group discussion on mental models
+> * **Activities**: Send surveys, Schedule interviews, Competitive Analysis (Collect process books)
 > * **HW**: How would you explain Git? Come up with a metaphor, model, etc.
+      * Download apps and do online research of competitive products. Analyze what are others doing successfully? Poorly? Anything you would want to consider in our own design?
 > * **PB**: Has learning about the coding concepts opened new perspectives?
 
 **9/13 F  Day 13**   Coding Basics - Models of OO
@@ -168,7 +168,7 @@ Daily slides are posted to Basecamp.
 
 **9/17 TU  No class meeting**
 
-**9/18 W  Day 15  Close-out research activities - What are we improving?**
+**9/18 W  Day 15  FIELD TRIP Close-out research activities - What are we improving?**
 
 > * **Activities**: Share out interview key insights; Brainstorming 
 > * **HW/PB**: Possible concepts/solutions?
