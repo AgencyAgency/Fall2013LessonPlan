@@ -162,7 +162,8 @@ Daily slides are posted to Basecamp.
 
 **9/16 M  Day 14   Core coding concepts - Objects**
 
-> * **Activities**: 3D prototyping of mental models
+> * **Activities**: Review of bouncing ball demo (part 1) via Live Coding in pairs.
+> * **HW**: [LAB 7 - Bouncing ball demo, part 2 of 2][LAB7] Finish it up.
 > * **HW**: Finish up interviews (due 9/18)
 > * **PB**: Checkpoint: how is this process going for you?
 
@@ -334,3 +335,5 @@ I'll transfer this part over later. In the meantime, here's a Wikipedia article 
    "LAB 5: Storyboarding: Outlets"
 [LAB6]: https://docs.google.com/a/iolani.org/presentation/d/1JSJw6DLimcenLXJY2it8-bShXj0N3e8O981oyktKmv4/edit?usp=sharing
    "LAB 6: Moving that ball we were talking about."
+[LAB7]: https://docs.google.com/a/iolani.org/presentation/d/1bf2Wu4oVTPoLx43abtqzNQZjG8CA4PlKS-XUEyrll4E/edit?usp=sharing
+   "LAB 7: Boucing ball, part 2 of 2"
