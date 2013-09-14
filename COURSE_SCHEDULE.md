@@ -151,6 +151,7 @@ Daily slides are posted to Basecamp.
 **9/13 F  Day 13**   Coding Basics - Models of OO
 
 > * **Activities**: Review homework via Live Coding. Begin descent into Object-Oriented programming.
+> * **HW**: [LAB 6 - Moving that ball we were talking about.][LAB6] This is step 1 in a larger mission to build our learning framework. It starts difficult, but gets easier, I promise. Really.
 > * **HW**: Finish up interviews (due 9/18)
 > * **PB**: How do the mental models influence your thinking? your understanding? How do you want to see the future of ‘Iolani?
 
@@ -331,4 +332,5 @@ I'll transfer this part over later. In the meantime, here's a Wikipedia article 
    "LAB 4: Storyboarding: Actions"
 [LAB5]: https://docs.google.com/a/iolani.org/presentation/d/1i7ohutQYbfsCYfNuum9csPqrCee2xBzyab_6_eAjwjc/edit?usp=sharing
    "LAB 5: Storyboarding: Outlets"
-
+[LAB6]: https://docs.google.com/a/iolani.org/presentation/d/1JSJw6DLimcenLXJY2it8-bShXj0N3e8O981oyktKmv4/edit?usp=sharing
+   "LAB 6: Moving that ball we were talking about."
