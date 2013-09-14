@@ -152,8 +152,8 @@ Daily slides are posted to Basecamp.
 
 > * **Activities**: Review homework via Live Coding. Begin descent into Object-Oriented programming.
 > * **HW**: [LAB 6 - Moving that ball we were talking about.][LAB6] This is step 1 in a larger mission to build our learning framework. It starts difficult, but gets easier, I promise. Really.
-> * **HW**: Finish up interviews (due 9/18)
-> * **PB**: How do the mental models influence your thinking? your understanding? How do you want to see the future of ‘Iolani?
+> * **HW**: Finish up interviews (due 9/20)
+> * **PB**: Start taking notes on your own processes (for secheduling, assignment organization, collaboration activities).
 
 ## *First half of PHASE 1 complete*
 
