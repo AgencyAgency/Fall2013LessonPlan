@@ -155,7 +155,7 @@ Daily slides are posted to Basecamp.
 > * **HW**: Finish up interviews (due 9/20)
 > * **PB**: Start taking notes on your own processes (for secheduling, assignment organization, collaboration activities).
 
-## *First half of PHASE 1 complete*
+## *First half of PHASE 1 almost complete (we're a week off)*
 
 ### Week 4.  Become a futurist. Envision a positive future.
 
