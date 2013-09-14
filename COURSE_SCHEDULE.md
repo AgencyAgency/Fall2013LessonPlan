@@ -118,7 +118,7 @@ Daily slides are posted to Basecamp.
 
 ### Week 3.  Be inspired. Begin to see relationships.
 
-***Objectives:*** *Continue with deeper research. Synthesize findings to date. Begin looking for inspiration and start ideation in solution space. Introduce basic coding concepts.*
+***Objectives:*** *Continue with deeper research. Synthesize findings to date. Introduce basic coding concepts.*
 
 **9/9 M  Day 9**  Storyboarding
 
@@ -137,22 +137,21 @@ Daily slides are posted to Basecamp.
 
 **9/11 W  Day 11**  Surveys, Interviews
 
-> * **Activities**: Finish group writing of surveys and interviews (Collect process books)
+> * **Activities**: Work day - Small group writing of surveys and interviews (Collect process books)
 > * **HW**: Finish survey and interview questions.
 
 
-**9/12 TH  Day 12**  
+**9/12 TH  Day 12**  Surveys, Interviews
 
-> * **Activities**: Send surveys, Schedule interviews, Competitive Analysis (Collect process books)
-> * **HW**: How would you explain Git? Come up with a metaphor, model, etc.
-      * Download apps and do online research of competitive products. Analyze what are others doing successfully? Poorly? Anything you would want to consider in our own design?
-> * **PB**: Has learning about the coding concepts opened new perspectives?
+> * **Activities**: Work day - Finalize surveys, Schedule interviews (Collect process books)
+> * **HW**: Finish survey and interview questions.
+
 
 **9/13 F  Day 13**   Coding Basics - Models of OO
 
 > * **Activities**: Review homework via Live Coding. Begin descent into Object-Oriented programming.
 > * **HW**: [LAB 6 - Moving that ball we were talking about.][LAB6] This is step 1 in a larger mission to build our learning framework. It starts difficult, but gets easier, I promise. Really.
-> * **HW**: Finish up interviews (due 9/20)
+> * **HW**: Finish up interview questions. Sending our surveys. All research due 9/20.
 > * **PB**: Start taking notes on your own processes (for secheduling, assignment organization, collaboration activities).
 
 ## *First half of PHASE 1 almost complete (we're a week off)*
@@ -169,17 +168,17 @@ Daily slides are posted to Basecamp.
 
 **9/17 TU  No class meeting**
 
-**9/18 W  Day 15  FIELD TRIP Close-out research activities - What are we improving?**
+**9/18 W  Day 15  FIELD TRIP**
 
 > * **Activities**: Share out interview key insights; Brainstorming 
 > * **HW/PB**: Possible concepts/solutions?
 
-**9/19 TH  Day 16  Personas - a better picture of our audience; Use Cases**
+**9/19 TH  Day 16  Competitive Analysis (may use class time for scheduling interviews)**
 
-> * **Activities**: Create personas as team; Brainstorming
+> * **Activities**: Start assembling all research to date (pictures, text, etc.)
 > * **HW/PB**: Continue working on personas
 
-**9/20 F  Day 17  Vision Statements - what are our goals for the solution?**
+**9/20 F  Day 17  Close-out research activities - What are we improving?**
 
 > * **Activities**: Mind-map solution space; Create vision statements 
 > * **HW/PB**: Finish vision statements and personas
@@ -188,16 +187,17 @@ Daily slides are posted to Basecamp.
 
 ### Week 5.  Ideas are cheap. Feel free to play with them roughly.
 
-***Objectives:*** *Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
+***Objectives:*** *Begin looking for inspiration and start ideation in solution space. Start of ideation phase. Explore the user’s experience of the potential solution spaces and consider appropriateness of interventions. Start Objective-C programming. Choose roles.*
 
 ***Note that there are two tracks (Design and Dev) for activities and homework to indicate role differences.***
 
 **9/23 M  Day 18  Design and development roles; Group brainstorming guidelines; Logistics**
 
 > * **Activities**: Checkpoint: where are we in our process. Get organized.
-> * **HW/PB**: What do you want your role to be? Be ready to choose.
+> * **HW/PB**: Review research. Draw 5 patterns, themes, insights.
+   *What do you want your role to be? Be ready to choose.
 
-**9/24 TU  Day 19  Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis;**
+**9/24 TU  Day 19  Personas - a better picture of our audience; Use Cases; Critiques - how to give and receive constructive feedback; Storyboarding; Task Analysis;**
 
 > * **Activities**: Telestrations; Practice critiquing
 
@@ -215,7 +215,7 @@ Daily slides are posted to Basecamp.
     * What are the limitations of the current process?
     * Are there limitations based on available data?
 
-**9/25 W  Day 20  Group Ideation**
+**9/25 W  Day 20  Vision Statements - what are our goals for the solution?; Group Ideation**
 
 > * **Activities**: Share out thinking; Review solution ideas to date; Affinity map; Brain writing
 > * **HW/PB**: 3+ ideas
